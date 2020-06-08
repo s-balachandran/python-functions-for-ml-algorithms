@@ -7,7 +7,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 #import functions from file k-Means.py
-from k-Means import * 
+from kMeans_algorithm import * 
 
 """
 Average silhouette measures the quality of clustering.
